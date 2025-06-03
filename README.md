@@ -2,7 +2,7 @@
 
 This Final Year Project (FYP) aims to develop a smart, scalable, and personalized air purification system designed to help individuals with asthma and other respiratory conditions by monitoring and improving indoor air quality.
 
-## 🔍 Overview
+## Overview
 
 The system consists of multiple sensor nodes deployed across different indoor zones. These nodes monitor:
 
@@ -13,7 +13,7 @@ The system consists of multiple sensor nodes deployed across different indoor zo
 
 When poor air quality is detected, the system activates air purifiers either **automatically** based on AQI thresholds or **manually** via a **web dashboard**.
 
-## 🧠 Key Features
+## Key Features
 
 - **Real-Time Air Quality Monitoring**
 - **Automated & Manual Purifier Control for individuals with asthma**
@@ -21,7 +21,7 @@ When poor air quality is detected, the system activates air purifiers either **a
 - **Wireless Multi-node Communication**
 - **Energy-efficient & Cost-effective Operation**
 
-## 🌐 Tech Stack
+## Tech Stack
 
 - **Microcontroller:** ESP32
 - **Frontend:** HTML, CSS, JavaScript
@@ -30,7 +30,7 @@ When poor air quality is detected, the system activates air purifiers either **a
 - **Communication:** Wi-Fi (HTTP requests between nodes and server)
 - **Control:** Relay modules on GPIOs for purifier control
 
-## 🖥️ Dashboard Features
+## Dashboard Features
 
 - Real-time display of air quality metrics for each node
 - Manual control for asthmatic users (on/off, set duration)
